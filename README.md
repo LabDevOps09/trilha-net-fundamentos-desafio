@@ -36,3 +36,16 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Conclusão do desafio
+Prints do teste para ver se estava rodando. Perfeito 😊
+
+![des1](https://github.com/user-attachments/assets/3da962fa-e744-4288-8289-778b4aa4779a)
+
+![des2](https://github.com/user-attachments/assets/670eb5e9-3aa3-4cd2-a864-2c24d220f880)
+
+![des3](https://github.com/user-attachments/assets/e837964b-5884-4bd7-935e-a339f8a9e8bc)
+
+![des4](https://github.com/user-attachments/assets/dc1e72b2-786c-41dc-87e3-068cc8a1ab4b)
+
+![des5](https://github.com/user-attachments/assets/0d3ced20-448c-4842-abc5-75c2a9e75c6b)
